@@ -29,6 +29,7 @@ const page = () => {
           />
         </div>
       </div>
+      <h1>hello streak hello </h1>
     </div>
   );
 };
